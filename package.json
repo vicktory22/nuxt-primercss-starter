@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@primer/css": "^15.2.0",
     "core-js": "^3.6.5",
     "nuxt": "^2.14.6"
   },
